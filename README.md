@@ -4,7 +4,7 @@
 Palisades Fire seen in the business district of Altadena on January 8, 2025.
 
 ### About
-We are interested in using Landsat8 bands data to create a false color imagery in order to see fire scars for the Eaton and Palisades fires in Los Angeles in 2025. These were the two most devasting fires for the season. We create a false color map to show the scars. All the analysis is done in notebooke `hwk4-task2-false-color-loo.ipynb`.
+We are interested in using Landsat8 bands data to create a false color imagery in order to see fire scars for the Eaton and Palisades fires in Los Angeles in 2025. These were the two most devasting fires for the season. We create a false color map to show the scars. All the analysis is done in notebook `hwk4-task2-false-color-loo.ipynb`.
 
 ### Highlights:
 - Exploration of data with `geopandas` and `xarray`
@@ -30,7 +30,7 @@ The data is not housed in this repository due to the file size.
 * `landsat8-2025-02-23-palisades-eaton.nc`: Downloaded from EDS220 class folder
 
 ### References
-U.S. Geological Survey. (2025). *Landsat 8*. U.S. Geological Survey. [Accessed Nov 18, 2026]\
+U.S. Geological Survey. (2025). *Landsat 8*. Microsoft. [Accessed Nov 18, 2026]\
 Wallin, Kimberly. (2026). *Fire Perimeters*. California Department of Forestry and Fire Protection. [Accessed Nov 18, 2026]
 
 ### Acknowledgements
