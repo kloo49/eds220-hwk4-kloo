@@ -21,7 +21,8 @@ We are interested in using Landsat8 bands data to create a false color imagery i
 │   └── data
 │      ├── fire25_1.gdb
 │      └── landsat8-2025-02-23-palisades-eaton.nc
-└── hwk4-task2-false-color-loo.ipynb # Jupyter notebook with visualization analysis
+├── hwk4-task2-false-color-loo.ipynb # Jupyter notebook with visualization analysis
+└── hwk4-task2-false-color-loo.pdf   # PDF of visualization analysis Jupyter notebook
 ```
 
 ### Data
