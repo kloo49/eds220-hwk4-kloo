@@ -1,6 +1,7 @@
 # Visualizing fire scars from Eaton and Palisades Fire 2025
 
 ![Altadena on Jan 8 2025](images/3-altadena-GettyImages-2254374340.jpeg)
+Palisades Fire seen in the business district of Altadena on January 8, 2025.
 
 ### About
 We are interested in using Landsat8 bands data to create a false color imagery in order to see fire scars for the Eaton and Palisades fires in Los Angeles in 2025. These were the two most devasting fires for the season. We create a false color map to show the scars. All the analysis is done in notebooke `hwk4-task2-false-color-loo.ipynb`.
